@@ -1,5 +1,5 @@
 * {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     box-sizing: border-box;
 }
 
@@ -23,61 +23,63 @@ body {
 
 }
 
-.input-box{
-    position:relative;
+.input-box {
+    position: relative;
     width: 100%;
     display: flex;
     align-items: center;
     cursor: pointer;
 }
 
-.input-box input[type="text"]  {
+.input-box input[type="text"] {
     color: white;
     font-size: large;
     width: calc(110% - 50px);
     padding-right: 40px;
     cursor: pointer;
-    
+
 }
 
 input[type="text"]::placeholder {
-    color: white; 
+    color: white;
 }
 
 
 .input-box button.fa.fa-search {
     height: 50px;
-    background-color:transparent;
+    background-color: transparent;
     color: white;
-    position:absolute; 
-    right: 20px; 
-    height: 100%; 
+    position: absolute;
+    right: 20px;
+    height: 100%;
     width: 44px;
     border: 0;
-    
-  }
-  .form-control{
+
+}
+
+.form-control {
     height: 50px;
-    background-color:#eeeeee69;
-  }
-  
-  .form-control:focus{
+    background-color: #eeeeee69;
+}
+
+.form-control:focus {
     background-color: #eeeeee69;
     box-shadow: none;
     border-color: #ffffff;
-  }
-  
+}
+
 
 .weather-icon {
     width: 190px;
     margin-top: 20px;
-   
+
 }
 
-.weather h1, .weather h2{
+.weather h1,
+.weather h2 {
     font-size: 60px;
     font-weight: 500;
-    margin-bottom:-15px;
+    margin-bottom: -15px;
 }
 
 
@@ -89,13 +91,14 @@ input[type="text"]::placeholder {
     margin-top: 40px;
 
 }
+
 .col {
-    align-items: center;  
+    align-items: center;
 }
 
 .hum {
- align-items: center; 
- margin-top:30px;
+    align-items: center;
+    margin-top: 30px;
 
 }
 
@@ -104,19 +107,26 @@ input[type="text"]::placeholder {
     height: 80px;
 }
 
-.humidity
- {
+.humidity, .wind {
     font-size: 20px;
     margin-top: 20px;
     margin-top: 30px;
 
 }
 
-.wind{
-    font-size: 20px;
-    margin-top: 20px;
-    margin-top: 30px;
-}
 .large-text {
     font-size: 30px;
+}
+
+.weather {
+    display: none;
+}
+.error{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 30px;
+    display: none;
+    color:#ff0000ad;
+    
 }
