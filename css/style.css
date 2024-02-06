@@ -24,15 +24,20 @@ body {
 }
 
 .input-box{
-    position: relative;
+    position:relative;
     width: 100%;
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .input-box input[type="text"]  {
     color: white;
     font-size: large;
+    width: calc(110% - 50px);
+    padding-right: 40px;
+    cursor: pointer;
+    
 }
 
 input[type="text"]::placeholder {
@@ -40,15 +45,16 @@ input[type="text"]::placeholder {
 }
 
 
-
-
-
-.input-box i {
-    position: absolute;
-    right: 20px;
-    top:15px;
-    color:#ffffff;
-  
+.input-box button.fa.fa-search {
+    height: 50px;
+    background-color:transparent;
+    color: white;
+    position:absolute; 
+    right: 20px; 
+    height: 100%; 
+    width: 44px;
+    border: 0;
+    
   }
   .form-control{
     height: 50px;
