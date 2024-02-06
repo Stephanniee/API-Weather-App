@@ -8,7 +8,6 @@ body {
     justify-content: center;
     min-height: 100vh;
     background: linear-gradient(135deg, #770838, #45379d);
-   
 }
 
 .card {
@@ -30,12 +29,25 @@ body {
     display: flex;
     align-items: center;
 }
-  
-  .input-box i {
+
+.input-box input[type="text"]  {
+    color: white;
+    font-size: large;
+}
+
+input[type="text"]::placeholder {
+    color: white; 
+}
+
+
+
+
+
+.input-box i {
     position: absolute;
     right: 20px;
     top:15px;
-    color:#ced4da;
+    color:#ffffff;
   
   }
   .form-control{
@@ -46,7 +58,7 @@ body {
   .form-control:focus{
     background-color: #eeeeee69;
     box-shadow: none;
-    border-color: #eee;
+    border-color: #ffffff;
   }
   
 
