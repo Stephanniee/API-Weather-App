@@ -2,7 +2,7 @@
 Your Go-To Weather Tracking Experience!
 WeatherWise is your ultimate companion for staying informed about the forecast, offering intuitive features and a sleek design tailored to users of all interests.
 
-![image](https://github.com/Stephanniee/API-Weather-App/assets/140328398/d3245f90-8e63-4ccd-aac7-f29189bfba30)
+                                             ![image](https://github.com/Stephanniee/API-Weather-App/assets/140328398/d3245f90-8e63-4ccd-aac7-f29189bfba30)
 ## Index
 * [User Stories](#user-stories)
 * [Features](#features)
