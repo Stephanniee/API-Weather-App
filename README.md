@@ -1,6 +1,7 @@
 # WeatherWise
 Your Go-To Weather Tracking Experience!
 WeatherWise is your ultimate companion for staying informed about the forecast, offering intuitive features and a sleek design tailored to users of all interests.
+
 ![image](https://github.com/Stephanniee/API-Weather-App/assets/140328398/d3245f90-8e63-4ccd-aac7-f29189bfba30)
 ## Index
 * [User Stories](#user-stories)
@@ -11,14 +12,14 @@ WeatherWise is your ultimate companion for staying informed about the forecast, 
 * [Credits](#credits)
 
 ## User Stories:
-o	As a user, I want a user-friendly app or website that allows me to quickly find the weather in any city of my choice.
+1. As a user, I want a user-friendly app or website that allows me to quickly find the weather in any city of my choice.
 
 ## Features:
 Start by typing in your desired city in the WeatherNow app, and the relevant information will be displayed.
-o	Utilise the search bar to easily find weather updates for various cities.
-o	Access information on temperature, humidity, and wind speed for your selected location.
-o	Get real-time weather forecasts for the current conditions in your city.
-o	View a centralised image depicting the current weather status, whether it's sunny, rainy, etc.
+1. Utilise the search bar to easily find weather updates for various cities.
+2. 	Access information on temperature, humidity, and wind speed for your selected location.
+3. 	Get real-time weather forecasts for the current conditions in your city.
+4. 	View a centralised image depicting the current weather status, whether it's sunny, rainy, etc.
 
 ## Features Left to Implement:
 o	Weekly weather updates for extended planning.
