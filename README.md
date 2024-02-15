@@ -6,7 +6,7 @@ WeatherWise is your ultimate companion for staying informed about the forecast, 
 ## Index
 * [User Stories](#user-stories)
 * [Features](#features)
-* [Technologies Used](#technologies used)
+* [Technologies](#technologies)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
@@ -25,7 +25,7 @@ Start by typing in your desired city in the WeatherNow app, and the relevant inf
 1.	Weekly weather updates for extended planning.
 2.	integration for current location weather updates.
 
-## Technologies Used:
+## Technologies:
 1.  OpenWeatherMap API: WeatherNow App utilizes the OpenWeatherMap API to retrieve current weather data. This API is freely available for smaller-scale applications.
 2.	Programming Languages: HTML5, CSS3, JavaScript.
 3.	Libraries & Programs Used: GitHub for repository management, Gitpod for collaborative coding, Bootstrap for responsive and visually appealing design.
