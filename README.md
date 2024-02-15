@@ -6,7 +6,7 @@ WeatherWise is your ultimate companion for staying informed about the forecast, 
 ## Index
 * [User Stories](#user-stories)
 * [Features](#features)
-* [Technologies](#technologies)
+* [Technologies Used](#technologies used)
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
